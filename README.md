@@ -1,8 +1,9 @@
 AAIE – Artificial Assessment Intelligence for Educators
 
-# Purpose and Scope
+ Purpose and Scope
 
 This repository provides documentation and engineering principles for the Artificial Assessment Intelligence for Educators (AAIE) project. The purpose is to give stakeholders, contributors, and new team members a structured overview of the project’s objectives, design process, and recommended practices.
+
 
 The scope of this documentation includes:
 - Introduction to AAIE and its goals.
@@ -11,9 +12,9 @@ The scope of this documentation includes:
 - Recommendations and best practices for development.
 - Future directions for the AAIE system.
 
-# Documentation Structure
+ Documentation Structure
 
-## Introduction
+Introduction
 
 - Overview of AAIE
 
@@ -21,7 +22,7 @@ The scope of this documentation includes:
 
 - Product engineering principles guiding development
 
-## Software Requirements Specification (SRS)
+ Software Requirements Specification (SRS)
 
 - Functional and non-functional requirements
 
@@ -29,7 +30,7 @@ The scope of this documentation includes:
 
 - Constraints and assumptions
 
-## Analysis
+ Analysis
 
 - System design considerations
 
@@ -37,7 +38,7 @@ The scope of this documentation includes:
 
 - Trade-offs and design choices
 
-## Recommendations
+ Recommendations
 
 - Best practices in engineering, DevSecOps, and security
 
@@ -45,7 +46,7 @@ The scope of this documentation includes:
 
 - Product engineering workflow (GitHub, Teams collaboration, etc.)
 
-## Future Scope
+ Future Scope
 
 - Planned improvements
 
@@ -53,13 +54,13 @@ The scope of this documentation includes:
 
 - Research and innovation opportunities
 
-# Repository Links
+ Repository Links
 
 AAIE Design & Engineering Repository:
 
 https://github.com/Faithy847/Noteary
 
-#  Product Engineering Principles
+  Product Engineering Principles
 
 - Clarity in roles & responsibilities (Product Lead, Scrum Master, Leadership Liaison).
 
