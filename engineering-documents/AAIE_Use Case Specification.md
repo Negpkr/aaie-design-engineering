@@ -177,7 +177,7 @@ In the current scope, AAIE enables educators to:
 
 ### Student Interaction with AAIE Platform
 
-![Student Use Case Diagram – Phase 2](../product-diagram/Use_case_diagram_Student_Future_Scope.png)
+![Student Use Case Diagram – Phase 2](../product-diagram/UseCase_diagram_Student_Future_Scope.png)
 
 **Purpose**  
 This use case illustrates how students engage in academic work using GenAI tools and OnTrack, and how the backend AAIE system supports analysis, feedback, and evaluation. It emphasizes system automation, AI detection, and student transparency, without providing students direct access to the AAIE platform.
